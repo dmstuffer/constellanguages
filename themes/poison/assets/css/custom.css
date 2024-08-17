@@ -1,0 +1,8 @@
+/* Empty css file that users can override in their own /assets/css/custom.css file */
+.sidebar {
+    font-size: .8em;
+    font-family: "Helvetica";
+  }
+  .content {
+    font-family: "Helvetica";
+  }
