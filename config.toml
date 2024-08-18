@@ -11,7 +11,7 @@ enableEmoji = true
 
 [params]
     brand = "Constellanguages"                      # name of your site - appears in the sidebar
-    brand_image = "constellanguages/images/astronaut.PNG"    # path to the image shown in the sidebar
+    brand_image = "static/images/astronaut.PNG"    # path to the image shown in the sidebar
     description = "Per Linguam Ad Astra" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
